@@ -1,0 +1,16 @@
+{
+	"name": "atheistdisco",
+	"version": "0.0.1",
+	"description": "a satoshidice bet agent",
+	"bin": {
+		"satoshi": "./atheistdisco.js"
+	},
+	"dependencies": {
+		"colors": ">= 0.6",
+		"optimist": ">= 0.3",
+		"request": ">= 2.16.3"
+	},
+	"engines": {
+		"node": ">= 0.8.15"
+	}
+}
