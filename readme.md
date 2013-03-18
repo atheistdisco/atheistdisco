@@ -6,7 +6,7 @@ Play [satoshiDICE](http://satoshidice.com/) with a [Blockchain Wallet](https://b
 
 You need [node.js](http://nodejs.org) with [npm](http://npmjs.org).
 
-Navigte your shell to this folder and type `npm install` to install required modules.
+Navigate your shell to this folder and type `npm install` to install required modules.
 
 ## Configure
 
@@ -25,6 +25,14 @@ No kidding:
 ````
 node ./atheistdisco.js
 ````
+
+## How does it work?
+
+Simple. The script keeps doubling the stake till it wins or everything is lost.
+
+## Why is it called "AtheistDisco"
+
+Because i like anagrams.
 
 ## Feedback, feature requests & support 
 
